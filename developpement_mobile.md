@@ -15,5 +15,4 @@ Voici des APIs à utiliser pour les données du marché :
 
 ## Bonus
 
-Dans l'idéal, l'application permetterait la gestion d'un portefeuille,
-ainsi que la vente et l'achat.
+Permettre la gestion d'un portefeuille, ainsi que la vente et l'achat en direct.
