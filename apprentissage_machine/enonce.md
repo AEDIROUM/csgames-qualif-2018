@@ -8,7 +8,7 @@ Python est le langage à privilégier pour cette épreuve.
 
 ---
 
-Le fichier provient du [répertoire de ML de UCI](//archive.ics.uci.edu/ml).
+Le fichier provient d'un [répertoire de UC, Irvine](//archive.ics.uci.edu/ml).
 
 ## Bonus
 

@@ -1,6 +1,6 @@
 # Programmation embarquée
 
-Vous devez écrire un robot compéetitif pour le jeu :
+Vous devez écrire un robot compétitif pour le jeu :
 [Much Assembly Required](//muchassemblyrequired.com)
 
 La programmation du robot se fait dans une syntaxe qui ressemble à celle
