@@ -1,4 +1,4 @@
-# Développement Web
+# Développement web
 
 Vous devez créer un site web pour un café étudiant.
 

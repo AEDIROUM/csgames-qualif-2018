@@ -1,4 +1,4 @@
-# Développement Mobile
+# Développement mobile
 
 Vous devez créer une application mobile (préférablement Android), qui répertorie
 les prix des différentes *cryptocurrencies* sur le marché, en temps réel.
