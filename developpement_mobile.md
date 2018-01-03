@@ -1,8 +1,7 @@
 # Développement Mobile
 
-Avec tout le buzz autour des *cryptocurrencies*, les prix continuent à grimper.
 Vous devez créer une application mobile (préférablement Android), qui répertorie
-les prix des différentes devises.
+les prix des différentes *cryptocurrencies* sur le marché, en temps réel.
 
 Voici des APIs à utiliser pour les données du marché :
 

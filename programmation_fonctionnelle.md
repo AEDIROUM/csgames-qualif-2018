@@ -1,7 +1,7 @@
 # Programmation fonctionnelle
 
 Écrire un petit programme pour simuler l'automate cellulaire :
-[Wireworld](//en.wikipedia.org/wiki/Wireworld).
+[Brian's Brain](//en.wikipedia.org/wiki/Brian's_Brain).
 
 Ce programme doit être écrit dans un de ces langages fonctionnels :
 
@@ -11,4 +11,4 @@ Ce programme doit être écrit dans un de ces langages fonctionnels :
 
 ## Bonus
 
-Écrire l'automate dans les trois langages.
+Écrire l'automate dans plus qu'un langage.

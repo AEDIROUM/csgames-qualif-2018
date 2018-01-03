@@ -8,6 +8,14 @@ Il n'est pas attendu que vous complétez toutes les épreuves pour faire parti d
 l'équipe. D'ailleurs, votre sélection n'implique pas nécessairement que vous
 ferez les épreuves de votre choix.
 
+## Questions
+
+Si les questions sont d'ordre général, vous pouvez directement les écrire comme
+[issues sur Github](//github.com/AEDIROUM/csgames-qualif-2018/issues).
+
+Pour tout autre question, vous pouvez contacter la personne ressource au même
+courriel que pour la remise.
+
 ## Remise
 
 Veuillez envoyez ce que vous avez effectué, idéalement en `.tar.gz` ou `zip` à
