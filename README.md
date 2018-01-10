@@ -8,6 +8,10 @@ Il n'est pas attendu que vous complétez toutes les épreuves pour faire parti d
 l'équipe. D'ailleurs, votre sélection n'implique pas nécessairement que vous
 ferez les épreuves de votre choix.
 
+*Les étudiants en première année sont encouragés à tenter de faire les épreuves
+de [développement web](developpement_web.md) et
+d'[intelligence artificielle](intelligence_artificielle.md).*
+
 ## Questions
 
 Si les questions sont d'ordre général, vous pouvez directement les écrire comme
@@ -18,8 +22,9 @@ courriel que pour la remise.
 
 ## Remise
 
-Veuillez envoyez ce que vous avez effectué, idéalement en `.tar.gz` ou `.zip`, à
-[qbaichab@iro.umontreal.ca](mailto:qbaichab@iro.umontreal.ca).
+Veuillez envoyez ce que vous avez effectué, idéalement en `.tar.gz` ou `.zip`,
+à [qbaichab@iro.umontreal.ca](mailto:qbaichab@iro.umontreal.ca), avec
+*CS Games* dans le sujet du courriel.
 
 ### Critères d'évaluation
 
