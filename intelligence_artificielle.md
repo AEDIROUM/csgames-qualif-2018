@@ -1,7 +1,7 @@
 # Intelligence artificielle
 
-Écrire une intelligence artificielle **compétitive** en Java pour le jeu de
-Tron.
+Écrire une intelligence artificielle **compétitive** en Java ou en JavaScript
+pour le jeu de Tron.
 
 [Code pour le serveur et le client](//github.com/abdelq/cybercycles).
 
