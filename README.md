@@ -34,3 +34,5 @@ d'en faire une seule, même avec le bonus complété.
 ### Date limite
 
 31 janvier 2018, 23 h 59.
+
+Uniquement pour informatique thérorique : 7 février 2018, 23 h 59.
