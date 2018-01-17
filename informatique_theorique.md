@@ -2,8 +2,9 @@
 
 1. n est un élément de q si la somme de n et de l'inverse des chiffres de n
 (i.e. inv(129) = 921) ne contient que des chiffres impairs. Trouvez combien de
-nombres, entre 0 et 10¹⁸, qui font parti de l'ensemble. Si un algorithme est
-utilisé, il faut l'inclure et analyser sa complexité.
+nombres, entre 0 et 10¹⁸, qui ne sont pas des multiples de 10, qui font parti
+de l'ensemble. Si un algorithme est utilisé, il faut l'inclure et analyser sa
+complexité.
 
 2. Combien y a-t-il de graphes d'[Instant
 Insanity](//wikipedia.org/wiki/Instant_Insanity) ? Justifiez.
@@ -19,6 +20,6 @@ abélien](//fr.wikipedia.org/wiki/Groupe_ab%C3%A9lien).
 5. Soit un système composite de 2 qubits. Trouvez la décomposition de Schmidt
 des états :
 
-$$\frac{\ket{00} + \ket{11}}{\sqrt{2}}$$
+\frac{\ket{00} + \ket{11}}{\sqrt{2}}
 
-$$\frac{\ket{00} + \ket{01} + \ket{11}}{\sqrt{3}}$$
+\frac{\ket{00} + \ket{01} + \ket{11}}{\sqrt{3}}

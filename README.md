@@ -24,7 +24,7 @@ courriel que pour la remise.
 
 Veuillez envoyez ce que vous avez effectué, idéalement en `.tar.gz` ou `.zip`,
 à [qbaichab@iro.umontreal.ca](mailto:qbaichab@iro.umontreal.ca), avec
-*CS Games* dans le sujet du courriel.
+*CS Games* dans le sujet du courriel, ainsi que votre dankest meme.
 
 ### Critères d'évaluation
 
